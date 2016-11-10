@@ -1,0 +1,9 @@
+questions.txt
+
+Computer Science 50
+Problem Set 3
+
+1. The game also allows 3x3, 5x5, 6x6, 7x7, 8x8, and 9x9 
+2. The board represents a 2D array.
+3. The game uses greet(); which is defined by the prototype (void) greet(void); This uses printf to greet the player.
+4. I need to implement: void init(void); void draw(void); bool move(int tile); bool won(void);

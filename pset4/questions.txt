@@ -1,0 +1,22 @@
+0.  JPG supports over 16 million colors.
+    GIF supports 256 colors.
+    PNG supports 8 bit and 24 bit colors.
+    BMP supports 32 bit color; over 4 billion.
+1.  GIF supports animation
+2.  Lossy compression discards data everytime an image is saved or modified; whereas lossless compression allows all of the file data to be recovered after any modifications.
+3.  JPEG is lossy compressed
+4.  First the system changes the file name's first character (tags it) so it shows it can be recycled. Then all of the file's FAT clusters are moved to the hard drives free clusters. The actual file data isn't touched. 
+5.  The most effective way is to physically destroy your device. If you still want to use your device, overwriting deleted data with other data would probably be the best way to ensure your files can't be recovered.
+6.  stdint.h is a header file that provides typedefs that specify exact width integers
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
